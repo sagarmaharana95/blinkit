@@ -1,0 +1,26 @@
+# Environments & Python
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Database Credentials & Secrets
+.env
+config.ini
+secrets.json
+
+# Large Data & Raw Dumps
+data/raw/*.csv
+data/processed/*.csv
+*.sql.gz
+*.sqlite3
+
+# Power BI Auto-Recovery & Temp Files
+*.pbix.temp
+~$*.pbix
+
+# Operating System
+.DS_Store
+Thumbs.db
