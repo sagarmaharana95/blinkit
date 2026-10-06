@@ -126,5 +126,5 @@ jupyter notebook notebooks/blinkit_eda.ipynb
 ---
 
 ## 👤 Author
-- **Name / GitHub:** [@your-username](https://github.com/your-username)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **Name / GitHub:** [@sagarmaharana95](https://github.com/sagarmaharana95)
+- **LinkedIn:** [sagar-maharana95](https://linkedin.com/in/sagar-maharana95)
